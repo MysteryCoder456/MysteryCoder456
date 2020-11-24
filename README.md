@@ -1,4 +1,4 @@
-## My name is Rehatbir Singh, or, MysteryCoder456!
+# My name is Rehatbir Singh, or, MysteryCoder456!
 ### Hi there 👋
 
 # About Me
