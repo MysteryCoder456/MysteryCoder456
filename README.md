@@ -3,7 +3,7 @@
 
 # About Me
 I'm a High School Student who likes to program Discord Bots, make games, create websites, and also create some AIs (although not very good at the last topic).
-I am also a gamer and play a lot games like Minecraft, Call of Duty, and Among Us.
+I am also a gamer and play a lot of games like Minecraft, Call of Duty, and Among Us.
 
 # Tech Specs
 I use a MacBook Pro 2017 13" 
