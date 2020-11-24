@@ -7,7 +7,7 @@ I am also a gamer and play a lot of games like Minecraft, Call of Duty, and Amon
 
 # Tech Specs
 I use a MacBook Pro 2017 13"<br>
-Processor: Intel Core 15 7th Gen<br>
+Processor: Intel Core i5 7th Gen<br>
 Memory: 8GB<br>
 Storage: 128GB<br>
 Graphics: Intel Iris Plus 640
