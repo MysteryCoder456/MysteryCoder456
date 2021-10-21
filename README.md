@@ -17,5 +17,5 @@ This is a Discord Bot I made along with [Jay Surana](https://github.com/Jay-Sura
 **[Earthify](https://github.com/MysteryCoder456/Earthify-App):**
 iOS app where you can put up stuff you don't need anymore and hope someone finds and wants it. It's like Amazon, except everything is free and you'll find mostly second hand items. Uses Firebase backend and SwiftUI 3.
 
-**[Top Down Survival Game](https://github.com/MysteryCoder456/TopDownSurvival):**
+**[Top Down Survival Game](https://github.com/TopDownSurvival-Dev-Team/TopDownSurvival):**
 Multiplayer survival game made with Godot Engine. You can download it on [itch.io](https://mysterycoder456.itch.io/top-down-survival) too. **WIP!**
