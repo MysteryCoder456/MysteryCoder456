@@ -1,8 +1,7 @@
 # MysteryCoder456 (CodeBoi#3680 on Discord)!
 
 ## About Me
-I'm a High School Student. I make Discord Bots, multiplayer games, websites, and iOS Apps.
-I am also a gamer and play a lot of games like Minecraft, Call of Duty, and Among Us.
+I'm a High School Student. I make Discord Bots, multiplayer games, websites, and iOS Apps and play games like Minecraft, Call of Duty, and Amogus.
 
 ## Workstation 💪
 1. Base model 2017 MacBook Pro 13" (not very workstation-y :P)
