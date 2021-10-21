@@ -19,3 +19,6 @@ iOS app where you can put up stuff you don't need anymore and hope someone finds
 
 **[Top Down Survival Game](https://github.com/TopDownSurvival-Dev-Team/TopDownSurvival):**
 Multiplayer survival game made with Godot Engine. You can download it on [itch.io](https://mysterycoder456.itch.io/top-down-survival) too. **WIP!**
+
+**[Infinity Slasher](https://github.com/MysteryCoder456/PyWeek32)**:
+PyWeek32 entry that came 7th place :D! Made with Godot and Python.
