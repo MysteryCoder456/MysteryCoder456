@@ -8,7 +8,7 @@ I am also a gamer and play a lot of games like Minecraft, Call of Duty, and Amon
 1. Base model 2017 MacBook Pro 13" (not very workstation-y :P)
 2. AK33 Blue Switch Mechanical Keyboard
 3. BenQ GW2480 1080p display
-– Raspberry Pi 4B+ 4GB
+4. Raspberry Pi 4B+ 4GB
 
 ## My Proudest Creations
 
