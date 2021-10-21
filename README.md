@@ -1,4 +1,8 @@
-# MysteryCoder456 (CodeBoi#3680 on Discord)!
+# MysteryCoder456 (CodeBoi#3680 on Discord)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MysteryCoder456&layout=compact&count_private=true&show_icons=true&theme=cobalt)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MysteryCoder456&count_private=trueshow_icons=true&theme=cobalt&langs_count=10&hide=tcl)
 
 ## About Me
 I'm a High School Student. I make Discord Bots, multiplayer games, websites, and iOS Apps and play games like Minecraft, Call of Duty, and Amogus.
