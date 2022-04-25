@@ -15,6 +15,12 @@ I'm a High School Student. I make Discord Bots, multiplayer games, websites, and
 3. BenQ GW2480 1080p display
 4. Raspberry Pi 4B+ 4GB
 
+## What I Use
+1. [Doom Emacs](https://github.com/MysteryCoder456/doom-emacs-conf/) for writing code.
+2. Xcode for writing Swift code.
+3. [Godot](https://godotengine.org/) for making games.
+4. [Warp](https://www.warp.dev/) for interacting with the computer thru text (a terminal).
+
 ## My Proudest Creations
 
 **[Sparta Bot](https://discord.gg/RrVY4bP):**
