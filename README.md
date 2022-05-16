@@ -1,6 +1,6 @@
 # MysteryCoder456
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MysteryCoder456&layout=compact&count_private=true&theme=github_dark&hide=tcl)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MysteryCoder456&layout=compact&count_private=true&theme=github_dark&hide=tcl,cython,makefile,css,jupyter_notebook&langs_count=10)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MysteryCoder456&count_private=true&show_icons=true&theme=github_dark)
 
