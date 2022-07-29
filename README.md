@@ -10,7 +10,7 @@
 I'm a High School Student. I make Discord Bots, multiplayer games, websites, and iOS Apps and play games like Minecraft, Call of Duty, and Amogus.
 
 ## Workstation 💪
-1. Base model 2017 MacBook Pro 13" (not very workstation-y :P)
+1. 14" M1 Pro MacBook Pro 8c CPU 14c GPU
 2. AK33 Blue Switch Mechanical Keyboard
 3. BenQ GW2480 1080p display
 4. Raspberry Pi 4B+ 4GB
