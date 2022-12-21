@@ -16,10 +16,11 @@ I'm a High School Student. I make Discord Bots, multiplayer games, websites, and
 4. Raspberry Pi 4B+ 4GB
 
 ## What I Use
-1. VSCode (with Vim) for writing code.
+1. VSCode (with Vim) for writing code. I sometimes also use Neovim :P, here's my [config](https://github.com/MysteryCoder456/nvim).
 2. Xcode for writing Swift code.
-3. [Godot](https://godotengine.org/) for making games.
-4. [Warp](https://www.warp.dev/) for interacting with the computer thru text (a terminal).
+3. [Flutter](https://flutter.dev/) for creating apps.
+4. [Godot](https://godotengine.org/) for making games.
+5. [Warp](https://www.warp.dev/) for interacting with the computer thru text (a terminal).
 
 ## My Proudest Creations
 
