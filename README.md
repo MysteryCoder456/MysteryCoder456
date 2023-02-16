@@ -7,7 +7,7 @@
 ![Discord Status](https://discord.c99.nl/widget/theme-1/400857098121904149.png)
 
 ## About Me
-I'm a High School Student. I make Discord Bots, multiplayer games, websites, and iOS Apps and play games like Minecraft, Call of Duty, and Amogus.
+I'm a High School Student. I make Discord Bots, multiplayer games, websites, and iOS Apps.
 
 ## Workstation 💪
 1. 14" M1 Pro MacBook Pro 8c CPU 14c GPU
@@ -15,23 +15,9 @@ I'm a High School Student. I make Discord Bots, multiplayer games, websites, and
 3. BenQ GW2480 1080p display
 4. Raspberry Pi 4B+ 4GB
 
-## What I Use
-1. VSCode (with Vim) for writing code. I sometimes also use Neovim :P, here's my [config](https://github.com/MysteryCoder456/nvim).
+## Tools 🛠️
+1. [Neovim](https://github.com/MysteryCoder456/nvim) for writing code.
 2. Xcode for writing Swift code.
 3. [Flutter](https://flutter.dev/) for creating apps.
 4. [Godot](https://godotengine.org/) for making games.
-5. [Warp](https://www.warp.dev/) for interacting with the computer thru text (a terminal).
-
-## My Proudest Creations
-
-**[Sparta Bot](https://discord.gg/RrVY4bP):**
-This is a Discord Bot I made along with [Jay Surana](https://github.com/Jay-Surana). It's a moderation, helper and games bot for turning your boring Discord server into a cool one.
-
-**[Earthify](https://github.com/MysteryCoder456/Earthify-App):**
-iOS app where you can put up stuff you don't need anymore and hope someone finds and wants it. It's like Amazon, except everything is free and you'll find mostly second hand items. Uses Firebase backend and SwiftUI 3.
-
-**[Top Down Survival Game](https://github.com/TopDownSurvival-Dev-Team/TopDownSurvival):**
-Multiplayer survival game made with Godot Engine. You can download it on [itch.io](https://mysterycoder456.itch.io/top-down-survival) too. **WIP!**
-
-**[Infinity Slasher](https://github.com/MysteryCoder456/PyWeek32)**:
-PyWeek32 entry that came 7th place :D! Made with Godot and Python.
+5. [Warp](https://www.warp.dev/) Terminal.
