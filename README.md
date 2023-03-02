@@ -7,7 +7,8 @@
 ![Discord Status](https://discord.c99.nl/widget/theme-1/400857098121904149.png)
 
 ## About Me
-I'm a High School Student. I make Discord Bots, multiplayer games, websites, and iOS Apps.
+I'm a High School Student. I like making Discord Bots, multiplayer games, web and mobile apps. My main interest is towards game and web dev,
+I started coding because I wanted to learn to make cool games and websites.
 
 ## Workstation 💪
 1. 14" M1 Pro MacBook Pro 8c CPU 14c GPU
@@ -15,9 +16,15 @@ I'm a High School Student. I make Discord Bots, multiplayer games, websites, and
 3. BenQ GW2480 1080p display
 4. Raspberry Pi 4B+ 4GB
 
+## Languages
+- **Python:** I started learning Python in 2018 and I still use it to this day. I've made quite a lot of projects with Python, but now
+I just use it for spinning up quick and dirty scripts and utilities.
+- **Rust:** I began with Rust in early 2022 and I love it 🦀! Any new project that can be sustainably made with Rust, I make with Rust.
+- **Swift:** Got started with Swift and iOS development around the same time as Python. I learnt SwiftUI and made a few apps with it too.
+- **Flutter:** I learnt Flutter for a competition and I felt it's quite similar to SwiftUI. It has some things that make life harder, but also 
+improved on some aspects from SwiftUI.
+- **Godot:** I absolutely adore this game engine. It's simple, intuitive, and doesn't bloat your system like Unity or Unreal Engine.
+
 ## Tools 🛠️
-1. [Neovim](https://github.com/MysteryCoder456/nvim) for writing code.
-2. Xcode for writing Swift code.
-3. [Flutter](https://flutter.dev/) for creating apps.
-4. [Godot](https://godotengine.org/) for making games.
-5. [Warp](https://www.warp.dev/) Terminal.
+- [Neovim](https://github.com/MysteryCoder456/nvim) as my primary code editor.
+- [Warp](https://www.warp.dev/) as my terminal.
