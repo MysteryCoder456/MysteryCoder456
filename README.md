@@ -11,12 +11,12 @@ I'm a High School Student. I like making Discord Bots, multiplayer games, web an
 I started coding because I wanted to learn to make cool games and websites.
 
 ## Workstation 💪
-1. 14" M1 Pro MacBook Pro 8c CPU 14c GPU
-2. AK33 Blue Switch Mechanical Keyboard
+1. [14" M1 Pro MacBook Pro 8c CPU 14c GPU](https://support.apple.com/kb/SP854)
+2. [Keychron K2 Gateron Pro Blue Switches](https://www.keychron.com/products/keychron-k2-wireless-mechanical-keyboard?variant=31063869784153)
 3. BenQ GW2480 1080p display
-4. Raspberry Pi 4B+ 4GB
+4. [Raspberry Pi 4B+ 4GB](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) (usually just for hosting apps and servers)
 
-## Languages
+## Languages 💻
 - **Python:** I started learning Python in 2018 and I still use it to this day. I've made quite a lot of projects with Python, but now
 I just use it for spinning up quick and dirty scripts and utilities.
 - **Rust:** I began with Rust in early 2022 and I love it 🦀! Any new project that can be sustainably made with Rust, I make with Rust.
