@@ -6,6 +6,8 @@
 
 ![Discord Status](https://discord.c99.nl/widget/theme-1/400857098121904149.png)
 
+[MonkeyType Profile](https://monkeytype.com/profile/CodeBoi)
+
 ## About Me
 I'm a High School Student. I like making Discord Bots, multiplayer games, web and mobile apps. My main interest is towards game and web dev,
 I started coding because I wanted to learn to make cool games and websites.
