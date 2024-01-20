@@ -7,6 +7,7 @@ I started coding because I wanted to learn to make cool games and websites.
 ## Hardware Tools 🦾
 ![Laptop Badge](https://img.shields.io/badge/M1%20Pro-MacBook_Pro_14_inch-%23ffffff?style=for-the-badge&logo=apple)
 ![Keyboard Badge](https://img.shields.io/badge/Keychron_K2-Keyboard-%23FE4F0E?style=for-the-badge&logo=monkeytype&logoColor=%23FE4F0E)
+![RPi Badge](https://img.shields.io/badge/Raspberry%20Pi%205-%23A22846?style=for-the-badge&logo=raspberry%20pi)
 ![RPi Badge](https://img.shields.io/badge/Raspberry%20Pi%204B-%23A22846?style=for-the-badge&logo=raspberry%20pi)
 
 ## Software Tools 🛠️
