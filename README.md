@@ -1,8 +1,9 @@
 <h1 align="center">MysteryCoder456</h1>
 
 <div align="center">
-  I'm a High School Student. I like making video games, web/mobile apps, and random utility software in low-level languages every now and then.
-  My main interest is towards web and network software development, but I started coding because I wanted to learn to make video games.
+  I'm an undergraduate CS major who started coding in middle-school. I make video games and web/mobile apps, but every now and then
+  I set out to create random projects to explore a new part of computer science I haven't explored yet. My main interest is towards
+  AI/ML, web and network software development, but I mainly started coding because I wanted to learn to make video games.
 </div>
 
 <div align="center">
