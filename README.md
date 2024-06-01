@@ -58,15 +58,15 @@
 </div>
 
 <div align="center">
+  <h2>Brewfile Personality</h2>
+  <img src="/brewfile.png" width="768px" />
+</div>
+
+<div align="center">
   <h2>Stats For Nerds</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MysteryCoder456&layout=compact&count_private=true&theme=github_dark&hide=tcl,cython,makefile,css,jupyter_notebook&langs_count=10" alt="Top Languages" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=MysteryCoder456&count_private=true&show_icons=true&theme=github_dark" alt="GitHub Stats" />
   <br>
   <img src="https://discord.c99.nl/widget/theme-1/400857098121904149.png" alt="Discord Status" />
-</div>
-
-<div align="center">
-  <h2>Brewfile Personality</h2>
-  <img src="/brewfile.png" />
 </div>
