@@ -65,3 +65,8 @@
   <br>
   <img src="https://discord.c99.nl/widget/theme-1/400857098121904149.png" alt="Discord Status" />
 </div>
+
+<div align="center">
+  <h2>Brewfile Personality</h2>
+  <img src="/brewfile.png" />
+</div>
