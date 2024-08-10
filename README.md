@@ -22,42 +22,6 @@
 </div>
 
 <div align="center">
-  <h2>Languages</h2>
-  
-  <h3><img src="/logos/python.svg" width=18px /> Python</h3>
-  <p>
-    I started learning Python in 2018 and I still use it to this day.<br>
-    I've made quite a lot of projects with Python, but now I just use<br>
-    it for spinning up quick and dirty scripts and utilities.
-  </p>
-  
-  <h3><img src="/logos/rust.svg" width=18px style="background: #EA735E;" /> Rust</h3>
-  <p>
-    I began with Rust in early 2022 and I love it 🦀! Any new project<br>
-    that can be sustainably made with Rust, I make with Rust.
-  </p>
-  
-  <h3><img src="/logos/swift.svg" width=18px /> Swift</h3>
-  <p>
-    Got started with Swift and iOS development around the same time<br>
-    as Python. I learnt SwiftUI and made a few apps with it too.
-  </p>
-  
-  <h3><img src="/logos/flutter.svg" width=18px /> Flutter</h3>
-  <p>
-    I learnt Flutter for a competition and I felt it's quite similar to<br>
-    SwiftUI. It has some things that make life harder, but also improved<br>
-    on some aspects from SwiftUI.
-  </p>
-  
-  <h3><img src="/logos/godotengine.svg" width=18px /> Godot</h3> 
-  <p>
-    I absolutely adore this game engine. It's simple, intuitive, and<br>
-    doesn't bloat your system like Unity or Unreal Engine.
-  </p>
-</div>
-
-<div align="center">
   <h2>Brewfile Personality</h2>
   <img src="/brewfile.png" width="768px" />
 </div>
