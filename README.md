@@ -18,7 +18,7 @@
 <div align="center">
   <h2>Software</h2>
   <img src="https://img.shields.io/badge/Neovim-Editor-%2357A143?style=for-the-badge&logo=neovim&link=https%3A%2F%2Fgithub.com%2FMysteryCoder456%2Fnvim" alt="Neovim" />
-  <img src="https://img.shields.io/badge/Warp-Terminal-%2301A4FF?style=for-the-badge&logo=warp&link=https%3A%2F%2Fapp.warp.dev%2Freferral%2F26LPVW" alt="Warp Terminal" />
+  <img src="https://img.shields.io/badge/Ghostty-Terminal-%2523?style=for-the-badge&logo=ghostery&logoColor=%2396C6FF&color=%2396C6FF&link=https%3A%2F%2Fghostty.org%2F" alt="Ghostty" />
 </div>
 
 <div align="center">
