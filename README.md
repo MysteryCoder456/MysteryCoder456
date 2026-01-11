@@ -1,9 +1,9 @@
 <h1 align="center">MysteryCoder456</h1>
 
 <div align="center">
-  I'm an undergraduate CS major who likes making video games, websites and mobile apps. Every now and then I set out
-  to create random projects to explore a new part of computer science I haven't explored yet. My main interest is towards
-  AI/ML, web and network software development, but I mainly started coding because I wanted to learn to make video games.
+  I'm an undergraduate CS major at UW-Madison. Every now and then I set out to create projects to explore a new part of
+  computer science I haven't explored yet. My main interest is towards fullstack engineering and backend systems, but I
+  started coding because I wanted to learn how to make video games.
 </div>
 
 <div align="center">
