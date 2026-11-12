@@ -1,6 +1,6 @@
 # Rehatbir Singh
 
-I like building fullstack and systems projects. C is my favorite language, btw.
+I build fullstack and systems projects. C is my favorite language, btw.
 
 ### Hardware Tools
 <div>
